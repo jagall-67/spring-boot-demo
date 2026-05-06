@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Reviewed codebase, identified areas for improvement
 - Fixed minor edge case in input handling
+
+## 2026-05-06
+- Added type hints to helper functions
+- Removed unused variable declarations
